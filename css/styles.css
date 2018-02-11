@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    background-color: #91F5AD
+}
+
+.max-viewport {
+   min-height: 100vh;
+}
+
+#banner{
+    background: url("images/farm.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.list-item{
+    list-style-type: none;
+}
