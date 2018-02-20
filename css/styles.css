@@ -3,7 +3,7 @@ body {
 }
 
 .navbar{
-    background-color: #91F5AD
+    background-color: #F5F6Fa
 }
 
 .max-viewport {
@@ -19,4 +19,37 @@ body {
 
 .list-item{
     list-style-type: none;
+}
+
+.imagebox{
+    background-image: url("images/corn.jpeg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: center;
+    height:400px ;
+    
+}
+
+.imagebox2{
+    background-image: url("images/foodalley.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: center;
+    height:400px;
+}
+
+.imagebox3{
+    background-image: url("images/motherduck.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: center;
+    height:400px;
+}
+
+.btn-sec{
+    text-align: center;
+}
+
+.footer{
+    background-color: #D9D9E0
 }
