@@ -53,3 +53,11 @@ body {
 .footer{
     background-color: #D9D9E0
 }
+
+.service {
+    background-color: antiquewhite;
+}
+
+.meatservice {
+    margin-top: 45px;
+}
